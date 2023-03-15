@@ -581,5 +581,5 @@ if (__name__ == '__main__'):
     file_result00 = open('decryption file.pdf', 'wb')
     file_result00.write(file_64_decoded00)
     print("***************************************")
-    print("encryption done with decryption file")
+    print("decryption done with decryption file")
 
